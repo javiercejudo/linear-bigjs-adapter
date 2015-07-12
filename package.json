@@ -1,6 +1,6 @@
 {
   "name": "linear-bigjs-adapter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "linear-big.js adapter for linear-arbitrary-precision",
   "main": "src/linear-bigjs-adapter.js",
   "scripts": {
